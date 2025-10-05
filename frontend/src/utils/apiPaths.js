@@ -1,4 +1,4 @@
-export const BASE_URL="http://localhost:4000"
+export const BASE_URL="https://resumebulider-backend.onrender.com"
 
 
 //ROUTES USED FOR FRONTEND
